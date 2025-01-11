@@ -3,4 +3,5 @@
 - Instructor: Sue Sampson
 - Student: Kendall Taylor
 
-  - module-1
+### module-1
+- Assignment 1.2
