@@ -3,4 +3,4 @@
 - Instructor: Sue Sampson
 - Student: Kendall Taylor
 
-  - mod-1
+  - module-1
