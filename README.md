@@ -1,2 +1,6 @@
-# csd-380
-Repository for DevOps
+# CSD380 DevOps
+## Contributors
+- Instructor: Sue Sampson
+- Student: Kendall Taylor
+
+  - module-1
