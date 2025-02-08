@@ -15,3 +15,6 @@
 
 ### module-4
 - Assignment 4.3
+
+### module-5
+- Assignment 5.2
