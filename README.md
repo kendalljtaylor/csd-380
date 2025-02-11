@@ -21,3 +21,6 @@
 
 ### module-6
 - Assignment 6.2
+
+### module-7
+- Assignment 7.2
