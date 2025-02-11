@@ -18,3 +18,6 @@
 
 ### module-5
 - Assignment 5.2
+
+### module-6
+- Assignment 6.2
