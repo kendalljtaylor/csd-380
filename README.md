@@ -24,3 +24,6 @@
 
 ### module-7
 - Assignment 7.2
+
+### module-8
+- Assignment 8.2
