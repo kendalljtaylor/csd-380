@@ -31,5 +31,8 @@
 ### module-9
 - Assignment 9.2
 
+### module-10
+- Assignment 10.2
+
 ### module-11
 - Assignment 11.2
